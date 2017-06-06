@@ -126,8 +126,14 @@ background-color: #34495e;
 	margin-top: 70px;
 	text-align: center;
 }
+.factura > h1 {
 
+	margin-left: 400px;
+	margin-top: 150px;
+	position: fixed;
+	font-family: 'Bungee Hairline', cursive;
 
+}
 
 
 
