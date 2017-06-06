@@ -16,16 +16,28 @@
 	<div class="sidebar_menu">
 		<i class="fa fa-times"></i>
 		<center>
-			<a href="index.php"><h1 class="boxed_item">LIBARDO <span class="logo_bold">VELASQUEZ</span></h1></a>
+			<a href="index.php"><h1 class="boxed_item">EDUARD <span class="logo_bold">MAZO</span></h1></a>
 			<h2 class="logo_title">DROGUERIA LUNA</h2>
 		</center>
 		<ul class="navigation_selection">
-			<li class="navigation_item">PERFIL</li>
-			<li class="navigation_item">FACTURACION</li>
-			<li class="navigation_item">BALANCE</li>
-			<li class="navigation_item">FALTANTES</li>
+			<li ><a class="navigation_item" href="perfil.php" 		>PERFIL</a></li>
+			<li ><a class="navigation_item" href="facturacion.php"	>FACTURACION</a></li>
+			<li ><a class="navigation_item" href="balance.php"		>BALANCE</a></li>
+			<li ><a class="navigation_item" href="faltantes.php"	>FALTANTES</a></li>
 		</ul>
+
+		<center>
+			<a href="index.php">
+				<h1 class="letra">
+				<i class="fa fa-sign-in login"></i>
+				SING UP</h1>
+				</a>	
 		
+	
+			
+		</center>
+		
+
 	</div>
 </body>
 </html>
